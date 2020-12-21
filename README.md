@@ -27,10 +27,12 @@ To aid in the decision making, I also gathered the same info and stats on precip
 
 More details on stats for precipitations below:
 - **June**
+
 ![June_prec_stats](https://user-images.githubusercontent.com/72593264/102739029-8c2a0080-4311-11eb-988f-cc4533c25359.png)
 ![June_prec_plot](https://user-images.githubusercontent.com/72593264/102739035-8e8c5a80-4311-11eb-8362-724d5441e999.png)
 
 - **December**
+
 ![Dec_prec_stats](https://user-images.githubusercontent.com/72593264/102739042-91874b00-4311-11eb-8be9-2f45c47c329c.png)
 ![Dec_prec_plot](https://user-images.githubusercontent.com/72593264/102739047-93510e80-4311-11eb-9e48-119872fe2647.png)
 
